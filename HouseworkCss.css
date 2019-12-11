@@ -1,0 +1,26 @@
+/*
+* @Author: DELL
+* @Date:   2019-12-11 14:41:49
+* @Last Modified by:   DELL
+* @Last Modified time: 2019-12-11 15:03:16
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.nav{
+	list-style: none;
+}
+.box{
+	width: 1200px;
+	height: 397px;
+	border: 1px solid red;
+	margin: 50px auto;
+	position: relative;
+	overflow: hidden;
+}
+.slider{
+	width: 8400px;
+	position: absolute;
+	left: -1200px;
+}
